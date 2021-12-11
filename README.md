@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-###- 🔭 I’m currently working on Python problem solving.
-###- 🌱 I’m currently learning Python.
+### - 🔭 I’m currently working on Python problem solving.
+### - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-###- 💬 Ask me about anything from the Python, HTML and CSS.
+### - 💬 Ask me about anything from the Python, HTML and CSS.
 - 😄 Pronouns: ...
-###- ⚡ Fun fact: I am also a content writer.
+### - ⚡ Fun fact: I am also a content writer.
 -->
 
 ### - Languages and Tools
