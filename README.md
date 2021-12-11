@@ -1,4 +1,4 @@
-### Hi there 👋 I am Muhammad Amas Waseem
+## Hi there 👋 I am Muhammad Amas Waseem
 
 ### - 🔭 I’m currently working on Python problem solving.
 ### - 🌱 I’m currently learning Python.
