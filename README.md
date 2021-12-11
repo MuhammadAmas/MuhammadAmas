@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### - Languages and Tools
+<span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>
+
 ### - 📫 Reach out to me:
 <a href="https://www.linkedin.com/in/muhammad-amas-waseem-85020a1a6/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/mohammad.amas.79/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
