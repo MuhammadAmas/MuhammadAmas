@@ -1,16 +1,12 @@
 ### Hi there 👋 I am Muhammad Amas Waseem
 
-<!--
-**AmasWaseem/AmasWaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### - 🔭 I’m currently working on Python problem solving.
 ### - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+### - 👯 I’m looking to collaborate on ...
+### - 🤔 I’m looking for help with ...
 ### - 💬 Ask me about anything from the Python, HTML and CSS.
-- 😄 Pronouns: ...
+### - 😄 Pronouns: ...
 ### - ⚡ Fun fact: I am also a content writer.
 -->
 
