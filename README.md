@@ -9,7 +9,8 @@
 ### - ⚡ Fun fact: I am also a content writer.
 
 ### - Languages and Tools
-<span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
+<span><img style="display:inline" src="![image](https://user-images.githubusercontent.com/84465512/145669936-11b9d65c-bcf9-49c1-b9af-8e213b629bf6.png)"/>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/chrome--v1.png"/>
