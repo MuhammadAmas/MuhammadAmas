@@ -6,7 +6,7 @@
 ### - 🌱 I’m currently learning Python.
 ### - 👯 I’m looking to collaborate on open source project.
 ### - 💬 Ask me about anything from the Python, HTML and CSS.
-### - ⚡ Fun fact: I'm also a content writer.
+### - ⚡ Fun fact: I am also a content writer.
 
 ### - Languages and Tools
 <span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
