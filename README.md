@@ -2,7 +2,7 @@
 ## Freelancer and Student of CS
 
 
-### - 🌱 I’m currently learning Python.
+### - 🌱 I’m currently learning R and Web Development.
 ### - 👯 I’m looking to collaborate on open source project.
 ### - 💬 Ask me about anything from the Python, HTML and CSS.
 ### - ⚡ Fun fact: I'm also a content writer.
