@@ -2,7 +2,6 @@
 ## Freelancer and Student of CS
 
 
-### - 🔭 I’m currently working on Python problem solving.
 ### - 🌱 I’m currently learning Python.
 ### - 👯 I’m looking to collaborate on open source project.
 ### - 💬 Ask me about anything from the Python, HTML and CSS.
