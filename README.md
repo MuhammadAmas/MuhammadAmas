@@ -25,7 +25,7 @@
 <a href="https://twitter.com/AmasWaseem" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
 
 # My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uhammadAmas&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAmas&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 # Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhammadAmas&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/AmasWaseem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAmas&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/AmasWaseem/github-readme-stats)
