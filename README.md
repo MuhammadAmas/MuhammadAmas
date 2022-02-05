@@ -2,9 +2,9 @@
 ## Freelancer and Student of CS
 
 
-### - 🌱 I’m currently learning 'R' and Web Development.
-### - 👯 I’m looking to collaborate on Web development and Data related projects.
-### - ⚡ Fun fact: I'm also a content writer.
+### -I’m currently learning 'R' and Web Development.
+### -I’m looking to collaborate on Web development and Data related projects.
+### -Fun fact: I'm also a content writer.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
