@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<a src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="100" height="100" alt="r logo"></a>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="100" height="100" alt="r logo">
 
 ### - 📫 Reach out to me:
 <a href="https://www.linkedin.com/in/muhammad-amas-waseem-85020a1a6/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
