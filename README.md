@@ -16,6 +16,8 @@
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="50" height="50" alt="r logo">
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
+<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="50" height="50" alt="cpp logo">
+<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" height="50" alt="java logo">
 
 ### - 📫 Reach out to me:
 <a href="https://www.linkedin.com/in/muhammad-amas-waseem-85020a1a6/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
