@@ -2,7 +2,8 @@
 ## Freelancer and Student of CS
 
 
-### - 🌱 I’m currently learning R and Web Development.
+### - 🔭 I’m currently working on Python problem solving.
+### - 🌱 I’m currently learning Python.
 ### - 👯 I’m looking to collaborate on open source project.
 ### - 💬 Ask me about anything from the Python, HTML and CSS.
 ### - ⚡ Fun fact: I'm also a content writer.
@@ -10,11 +11,11 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### - Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="50" height="50" alt="r logo">
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
 
 ### - 📫 Reach out to me:
 <a href="https://www.linkedin.com/in/muhammad-amas-waseem-85020a1a6/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
