@@ -27,5 +27,3 @@
 
 # Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAmas&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/AmasWaseem/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=MuhammadAmas)
