@@ -2,7 +2,7 @@
 ## Freelancer and Student of CS
 
 
-### -I’m currently Data Analytics and Web Development.
+### -I’m currently learning Data Analytics and Web Development.
 ### -I’m looking to collaborate on Web development and Data related projects.
 ### -Fun fact: I'm also a content writer.
 
