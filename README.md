@@ -1,6 +1,4 @@
-# Hi 👋 I am Muhammad Amas Waseem
-## Freelancer and Student of CS
-
+# Hi there, I'm Muhammad Amas - Undergrad Computer Science 👨‍💻
 
 - I’m currently learning Data Analytics and Web Development.
 - I’m looking to collaborate on Data and Web development related projects.
@@ -8,7 +6,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### Languages and Tools
+### Languages and Tools:
 <span><img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
