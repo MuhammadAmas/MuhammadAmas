@@ -3,7 +3,7 @@
 
 
 ### -I’m currently learning Data Analytics and Web Development.
-### -I’m looking to collaborate on Web development and Data related projects.
+### -I’m looking to collaborate on Data and Web development related projects.
 ### -Fun fact: I'm also a content writer.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
