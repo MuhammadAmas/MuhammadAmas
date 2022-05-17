@@ -12,16 +12,16 @@
 <h2 align="center">About me 😇</h2>
 <p align="center">
 </p>
-<img align="right" alt="GIF" src="coding-gif-tenor.gif" width="350" height="200" />
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ###
 - 🙋‍♂️ I'm Computer Science Undergrad.
 - ✨ I'm learning "Data Analytics" and "Web & Mobile App Development".
-- Fun fact: I'm also a content writer.
 - 💻 The tech I'm interested:
    - Cloud Computing. 
    - Machine Learning.
    - Artificial Intelligence. 
+- Fun fact: I'm also a content writer.
 
 ---
 
