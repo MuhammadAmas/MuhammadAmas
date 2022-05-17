@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="50" height="50" alt="r logo">
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/>
 
-### 📫 Reach out to me:
+### Connect with me:
 <a href="https://www.linkedin.com/in/muhammad-amas-waseem-85020a1a6/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/mohammad.amas.79/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href="https://www.instagram.com/amas_waseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
