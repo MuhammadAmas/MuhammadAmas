@@ -29,10 +29,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAmas&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/AmasWaseem/github-readme-stats) -->
 
 
-  <img align="left" alt="sidramwaseem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidramwaseem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="sidramwaseem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadamas&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
  
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidramwaseem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" style="margin-top:60px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadamas&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" style="margin-top:60px" />
