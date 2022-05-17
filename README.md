@@ -22,8 +22,17 @@
 <a href="https://www.instagram.com/amas_waseem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 <a href="https://twitter.com/AmasWaseem" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
 
-# My Github Stats
+<!-- # My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAmas&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 # Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAmas&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/AmasWaseem/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAmas&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/AmasWaseem/github-readme-stats) -->
+
+
+  <img align="left" alt="sidramwaseem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sidramwaseem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
+ 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidramwaseem&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" style="margin-top:60px" />
