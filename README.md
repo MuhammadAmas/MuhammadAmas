@@ -18,6 +18,7 @@
 - 🙋‍♂️ I'm Computer Science Undergrad.
 - ✨ I'm learning "Data Analytics" and "Web & Mobile App Development".
 - 💻 The tech I'm interested:
+   - Blockchain
    - Cloud Computing. 
    - Machine Learning.
    - Artificial Intelligence. 
