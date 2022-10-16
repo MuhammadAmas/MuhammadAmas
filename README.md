@@ -20,8 +20,6 @@
 - 💻 The tech I'm interested:
    - Blockchain
    - Cloud Computing. 
-   - Machine Learning.
-   - Artificial Intelligence. 
 - Fun fact: I'm also a content writer.
 
 ---
@@ -31,14 +29,15 @@
 <h3 align="center"> Languages and Tools</h3>
 </p>
 <p align="center">
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/html-5.png"/></span>
+<img style="display:inline" src="https://img.icons8.com/color/50/000000/css3.png"/>
+<img style="display:inline" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img style="display:inline" src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="45" height="45"/>
 <img style="display:inline" src="https://img.icons8.com/color/50/000000/python.png"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="50" height="50" alt="java logo">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="50" height="50" alt="r logo">
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
    </p>
 
