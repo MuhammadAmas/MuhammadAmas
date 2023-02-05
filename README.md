@@ -2,27 +2,39 @@
   <h1 align="center"><b>Hi there I'm Muhammad Amas <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 <p align="center">
+ <a href="https://muhammadamas.medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 <a href="https://twitter.com/AmasWaseem"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/amaswaseem/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://www.facebook.com/mohammad.amas.79/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/amas_waseem/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
-
-
+<div align="center" width="50">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+<div align="center">
+  
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
+  </a>
+</h1>
+  
 <!-- <h2 align="center">About me 😇</h2> -->
 <p align="center">
 </p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ###
-- 🙋‍♂️ I'm Computer Science Undergrad.
-- ✨ I'm learning "Data Analytics" and "Web & Mobile App Development".
-- 💻 The tech I'm interested:
-   - Blockchain
-   - Cloud Computing. 
-- Fun fact: I'm also a content writer.
 
----
+<!-- Cool Giphy Start here -->
+<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
+<!-- End here -->
+  <div align="left">
+    &nbsp; ⇢ &nbsp; I'm Computer Science Undergrad.</br>
+&nbsp; ⇢ &nbsp; I'm learning "Data Analytics" and "Web & Mobile App Development".</br>
+&nbsp; ⇢ &nbsp; Fun fact: I'm also a content writer.</br>
+  </div>
 
 <br />
 <p>
@@ -60,6 +72,6 @@
 <br />
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=muhammadamas">
- 
+
 </a>
 <a href="https://github.com/muhammadamas?tab=followers"><img src="https://img.shields.io/github/followers/muhammadamas?label=Followers&style=social" alt="GitHub Badge"></a>
