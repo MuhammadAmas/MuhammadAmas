@@ -47,7 +47,7 @@
   title="Like Amas's work? Buy him a coffee"
   class="bmac"
   href="https://www.buymeacoffee.com/muhammadamas" target="_blank">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muhd.ahsanayaz&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muhammadamas&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
 </a>
   
 <br />
