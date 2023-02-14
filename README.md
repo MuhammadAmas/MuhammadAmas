@@ -32,8 +32,11 @@
 <!-- End here -->
   <div align="left">
     &nbsp; ⇢ &nbsp; I'm Computer Science Undergrad.</br>
-&nbsp; ⇢ &nbsp; I'm learning "Data Analytics" and "Web & Mobile App Development".</br>
-&nbsp; ⇢ &nbsp; Fun fact: I'm also a content writer.</br>
+    &nbsp; ⇢ &nbsp; I'm currently learning backend development and enhancing my skills.</br>
+    &nbsp; ⇢ &nbsp; I’m looking to collaborate on Web devepoment projects and algorithms (open source and freelance).</br>
+    &nbsp; ⇢ &nbsp; I do freelance Web App Developement on <a href = "" > `Upwork` <a> and <a href = "" >`Fiverr`<a></br>
+    &nbsp; ⇢ &nbsp; I write articles on <a href = "https://medium.com/@muhammadamas" >`Medium`<a> </br>
+    &nbsp; ⇢ &nbsp; Fun fact: I'm also a content writer.</br>
   </div>
 
 <br />
