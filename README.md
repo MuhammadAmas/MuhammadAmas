@@ -10,8 +10,10 @@
 <a href="https://www.facebook.com/mohammad.amas.79/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/amas_waseem/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
+
 <div align="center" width="50">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+</div>
 <div align="center">
   
 <h1 align="center">
@@ -19,13 +21,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
   </a>
 </h1>
+  </div>
   
 <!-- <h2 align="center">About me 😇</h2> -->
 <p align="center">
 </p>
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
-###
+
 
 <!-- Cool Giphy Start here -->
 <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
@@ -37,8 +40,16 @@
     &nbsp; ⇢ &nbsp; I do freelance Web App Developement on <a href = "" > `Upwork` <a> and <a href = "" >`Fiverr`<a></br>
     &nbsp; ⇢ &nbsp; I write articles on <a href = "https://medium.com/@muhammadamas" >`Medium`<a> </br>
     &nbsp; ⇢ &nbsp; Fun fact: I'm also a content writer.</br>
-  </div>
+  
+<h4 style="margin-bottom: 0">Like my work? </h4>
 
+<a
+  title="Like Ahsan's work? Buy him a coffee"
+  class="bmac"
+  href="https://www.buymeacoffee.com/muhd.ahsanayaz">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muhd.ahsanayaz&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
+</a>
+  
 <br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
