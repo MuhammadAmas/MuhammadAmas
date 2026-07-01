@@ -32,11 +32,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Muhammad Amas**, a passionate **Software Engineer** with 2+ years of experience in developing scalable cloud-integrated web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks, cloud platforms, and performance-optimized UI development.
-
-💡 Currently, I'm working at **Cloudnosys** — a B2B cloud security SaaS platform — where I help build secure and visual cloud environments using advanced technologies like **React** and **Node**.
-
-📍 Based in Karachi, Pakistan — but working with global teams across Frontend, Backend, DevSecOps, MLOps, and security engineering.
+Hi! I'm **Muhammad Amas**, a passionate **Software Engineer** with 3+ years of experience in developing scalable cloud-integrated web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks, cloud platforms, and performance-optimized UI development.
 
 ---
 
