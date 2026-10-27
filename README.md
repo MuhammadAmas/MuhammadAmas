@@ -1,40 +1,31 @@
-<h1 align="center">
-  Hi there, I'm Muhammad Amas <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="👋" width="30">
-</h1>
+# Hi, I'm Muhammad Amas 👋
 
-<p align="center">
-  <a href="https://muhammadamas.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://twitter.com/AmasWaseem" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/amaswaseem/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/mohammad.amas.79/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/amas_waseem/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+**Software engineer · Full-stack applications, AI integrations & developer tools**
 
----
+I build web applications, backend APIs, and tools that connect AI assistants to everyday workflows. My work spans React interfaces, Node.js services, cloud integrations, and Go MCP servers.
 
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%" alt="Developer working" />
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Welcome+to+my+GitHub+Profile!🖤&center=true&size=20" />
-</div>
+[Portfolio](https://muhammadamas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/amaswaseem/) · [Technical writing](https://muhammadamas.medium.com/) · [X](https://twitter.com/AmasWaseem)
 
----
+## Selected projects
 
-## 👨‍💻 About Me
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| [QuickNotes](https://github.com/MuhammadAmas/QuickNotes) | Capture and organize notes across macOS, web, and Chrome, with Firebase sync and an MCP server for AI assistants. | Swift, JavaScript, Firebase, Go, MCP |
+| [github-mcp-server](https://github.com/MuhammadAmas/github-mcp-server) | Read-only GitHub profile, repository, and search tools for MCP clients over stdio or Streamable HTTP. | Go, MCP, GitHub API |
+| [Docor-RAG](https://github.com/MuhammadAmas/Docor-RAG) | Chat with PDFs locally using hybrid retrieval, with answers linked to source passages. | TypeScript, NestJS, Ollama |
+| [LMS](https://github.com/MuhammadAmas/LMS) | Learning management system with student and instructor workflows, course management, and authentication. Built with [Zain Asif](https://github.com/ZainAsif767). | React, Express, PostgreSQL, Chakra UI |
+| [My-Portfolio](https://github.com/MuhammadAmas/My-Portfolio) | Software projects, engineering case studies, and technical articles. [Visit the site](https://muhammadamas.vercel.app). | React, Vite, Tailwind CSS |
+| [Queuing-Model](https://github.com/MuhammadAmas/Queuing-Model) | Interactive application for simulating and analyzing queuing systems. | React, Material UI |
 
-Hi! I'm **Muhammad Amas**, a passionate **Software Engineer** with 3+ years of experience in developing scalable cloud-integrated web applications and secure backend systems. My technical expertise spans modern JavaScript frameworks, cloud platforms, and performance-optimized UI development.
+## Technologies I work with
 
----
+- **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, Ant Design, Chakra UI
+- **Backend & integrations:** Node.js, Express, NestJS, Go, GraphQL, REST APIs, MCP
+- **Data & cloud:** PostgreSQL, SQL, Firebase, Redis, AWS, Google Cloud, Docker
+- **Also:** Python
+
+<details>
+<summary>More about my engineering work</summary>
 
 ## 🧠 What I Do
 
@@ -53,45 +44,19 @@ Hi! I'm **Muhammad Amas**, a passionate **Software Engineer** with 3+ years of e
 - 🧾 **Compliance-Aware Development**  
   Integrated CIS, ISO 27001, NIST, GDPR, and Saudi NCA controls into live dashboards and audits.
 
----
+</details>
 
-## 🛠️ Technologies & Tools
+<details>
+<summary>More projects</summary>
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+- **InsightEdu:** AI-powered EdTech platform with attentiveness tracking using MediaPipe and Firebase.
+- **[NestJS GraphQL Chatbot](https://github.com/MuhammadAmas/nestjs-graphql-chatbot):** Real-time chatbot with GraphQL subscriptions and Supabase realtime events.
+- **[FuturConnect Dashboard](https://github.com/MuhammadAmas/FuturConnect):** Realtime room scheduler using Vite, Tailwind, and Firebase.
 
-### Tools & Platforms
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+</details>
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 InsightEdu  
-AI-powered EdTech platform with attentiveness tracking using MediaPipe + Firebase.
-
-### 🔹 NestJS GraphQL Chatbot  
-Real-time chatbot with GraphQL subscriptions and Supabase realtime events.  
-🔗 [View on GitHub](https://github.com/MuhammadAmas/nestjs-graphql-chatbot)
-
-### 🔹 Learning Management System  
-Robust course management system using React, PostgreSQL, and Chakra UI.  
-🔗 [View on GitHub](https://github.com/MuhammadAmas/lms)
-
-### 🔹 FuturConnect Dashboard  
-Realtime room scheduler using Vite + Tailwind + Firebase.  
-🔗 [View on GitHub](https://github.com/MuhammadAmas/FuturConnect)
-
----
+<details>
+<summary>Certifications, awards & leadership</summary>
 
 ## 🎖 Certifications
 
@@ -100,16 +65,18 @@ Realtime room scheduler using Vite + Tailwind + Firebase.
 - 🏅 [Back-End Development & APIs (freeCodeCamp)](https://www.freecodecamp.org/certification/muhammadamas/back-end-development-and-apis)
 - ⏳ Google Cloud Associate Cloud Engineer (in progress)
 
----
 
 ## 🏆 Awards & Leadership
 
 - 🥇 **Gold Medalist** — University of Karachi (2024)  
   Recognized for outstanding co-curricular contributions
 
-- 🚀 **GDSC – Executive Lead & Technical Co-Lead**  
+- 🚀 **GDSC – Executive Lead & Technical Co-Lead**
 
----
+</details>
+
+<details>
+<summary>Support & GitHub activity</summary>
 
 ## ☕ Support Me
 
@@ -144,3 +111,7 @@ If you like what I do, consider buying me a coffee 😊
     <img src="https://img.shields.io/github/followers/muhammadamas?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
+
+</details>
+
+[Instagram](https://www.instagram.com/amas_waseem/) · [Facebook](https://www.facebook.com/mohammad.amas.79/)
