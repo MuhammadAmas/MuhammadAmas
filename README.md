@@ -1,10 +1,17 @@
 # Hi, I'm Muhammad Amas 👋
 
-**Software engineer · Full-stack applications, AI integrations & developer tools**
+**Software engineer · AI automation, integrations & MCP servers · Full-stack development**
 
-I build web applications, backend APIs, and tools that connect AI assistants to everyday workflows. My work spans React interfaces, Node.js services, cloud integrations, and Go MCP servers.
+I build AI automations, custom MCP servers, and integrations that connect assistants with real applications and data. I also develop full-stack web applications and backend APIs with React, Node.js, Go, and cloud services.
 
 [Portfolio](https://muhammadamas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/amaswaseem/) · [Technical writing](https://muhammadamas.medium.com/) · [X](https://twitter.com/AmasWaseem)
+
+## AI automation, integrations & MCP servers
+
+- **AI workflow automation:** Connect AI assistants to everyday tasks such as capturing, searching, summarizing, and organizing notes through QuickNotes.
+- **MCP servers & tools:** Build Go servers that expose application features and APIs to MCP clients over stdio and Streamable HTTP, including QuickNotes and read-only GitHub tools.
+- **API & cloud integrations:** Connect web apps, backend services, and AI tools through REST APIs, GraphQL, Firebase, and authentication flows.
+- **AI applications & retrieval:** Build chat interfaces and local document Q&A with Ollama, retrieval-augmented generation (RAG), hybrid search, and answers linked to source passages.
 
 ## Selected projects
 
@@ -20,7 +27,8 @@ I build web applications, backend APIs, and tools that connect AI assistants to 
 ## Technologies I work with
 
 - **Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, Ant Design, Chakra UI
-- **Backend & integrations:** Node.js, Express, NestJS, Go, GraphQL, REST APIs, MCP
+- **AI & automation:** MCP servers, AI tool integrations, Ollama, RAG, hybrid retrieval, workflow automation
+- **Backend & integrations:** Node.js, Express, NestJS, Go, GraphQL, REST APIs
 - **Data & cloud:** PostgreSQL, SQL, Firebase, Redis, AWS, Google Cloud, Docker
 - **Also:** Python
 
